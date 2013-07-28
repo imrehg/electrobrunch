@@ -1,4 +1,8 @@
 *~
+*.apk
+*.ap_
+*.class
 .gradle
 .idea
+local.properties
 */build
